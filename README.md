@@ -6,10 +6,10 @@
 
 ## 🧠 About Me
 
-- 🎓 2nd-year **B.Tech in AI & Robotics** at UEM Kolkata (GPA: 8.19)
+- 🎓 2nd-year **B.Tech in AI & Robotics** at UEM Kolkata (GPA: 8.17)
 - 🔭 Currently building **multi-agent AI platforms**, **RAG pipelines**, and **geospatial AI systems**
 - 💡 Passionate about solving real-world problems with **LLMs**, **vector databases**, and **scalable APIs**
-- 🧩 Solved **100+ LeetCode problems** in C++ — Arrays, Trees, Recursion & more
+- 🧩 Solved **200+ LeetCode problems** in C++ — Arrays, Trees, Recursion & more
 - 📜 Certified in **Machine Learning Specialization** by DeepLearning.AI (Andrew Ng)
 - 📍 Based in **Kolkata, West Bengal**
 
