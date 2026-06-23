@@ -82,33 +82,15 @@
 
 ---
 
-## 🚀 Featured Projects
+ `ChromaDB` `Tavily` `Pydantic v2` `n8n`
 
-### 🧠 [AIRA — Multi-Agent AI Research Platform](https://github.com/Subhra-Nandi)
-> Orchestrates 3 specialized AI agents (Research, Analysis, Coding) from a single natural language goal using a custom planner with intent detection.
 
-- 🔍 Dual Tavily web searches with relevance scoring + ChromaDB cross-session memory
-- 💡 Returns personalized startup ideas with market size, competitors & risk assessment
-- 🔧 FastAPI REST layer with Pydantic v2, in-memory task store + n8n workflow automation
-
-`FastAPI` `GPT-4o` `ChromaDB` `Tavily` `Pydantic v2` `n8n`
-
----
-
-### 🗺️ [NGO Resource Allocation Platform](https://github.com/Subhra-Nandi)
-> Full-stack disaster relief platform connecting affected users to the nearest NGO using PostGIS spatial queries within a 200km radius.
-
-- 🎙️ Multi-modal ingestion: text, Whisper STT, Tesseract OCR → GPT-4o structuring agent
-- ✅ Two-stage AI validation with confidence thresholds + live stock checks
-- 🗺️ NGO admin dashboard with severity-colored live map + JWT-authenticated inventory CRUD
-- 🚀 Deployed on Railway + Vercel + Neon with Sundarbans flood scenario seed data
 
 `FastAPI` `PostgreSQL` `PostGIS` `GPT-4o` `Whisper` `Next.js 14` `Redis` `Railway`
 
 ---
 
-### 📄 [Tesla 10-K RAG Chatbot](https://github.com/Subhra-Nandi)
-> RAG pipeline ingesting Tesla's 10-K PDF, generating embeddings via HuggingFace, stored in Pinecone, answered by Google Gemini.
+.
 
 `Python` `LangChain` `Google Gemini` `Pinecone` `HuggingFace`
 
