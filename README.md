@@ -80,21 +80,9 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
----
-
- `ChromaDB` `Tavily` `Pydantic v2` `n8n`
 
 
 
-`FastAPI` `PostgreSQL` `PostGIS` `GPT-4o` `Whisper` `Next.js 14` `Redis` `Railway`
-
----
-
-.
-
-`Python` `LangChain` `Google Gemini` `Pinecone` `HuggingFace`
-
----
 
 ## 📊 GitHub Stats
 
