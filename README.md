@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 🎓 2nd-year **B.Tech in AI & Robotics** at UEM Kolkata (GPA: 8.17)
+- 🎓 3rd-year **B.Tech in AI & Robotics** at UEM Kolkata (GPA: 8.17)
 - 🔭 Currently building **multi-agent AI platforms**, **RAG pipelines**, and **geospatial AI systems**
 - 💡 Passionate about solving real-world problems with **LLMs**, **vector databases**, and **scalable APIs**
 - 🧩 Solved **200+ LeetCode problems** in C++ — Arrays, Trees, Recursion & more
