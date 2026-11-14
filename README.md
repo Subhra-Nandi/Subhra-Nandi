@@ -22,7 +22,7 @@ I'm open to internships, open-source collaboration and hackathon teams. Email is
 
 <p>
   <a href="mailto:subhranandi20@gmail.com"><img src="https://img.shields.io/badge/Email-subhranandi20%40gmail.com-1a0a2e?style=for-the-badge&logo=gmail&logoColor=d8a0f8&labelColor=2d1060" alt="Email"/></a>
-  <a href="https://linkedin.com/in/subhra-nandi"><img src="https://img.shields.io/badge/LinkedIn-subhra--nandi-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=d8a0f8&labelColor=2d1060" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/subhra-nandi-06071a281"><img src="https://img.shields.io/badge/LinkedIn-Subhra%20Nandi-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=d8a0f8&labelColor=2d1060" alt="LinkedIn"/></a>
   <a href="https://subhra-nandi.github.io/my_portfolio/"><img src="https://img.shields.io/badge/Portfolio-subhra--nandi.github.io-1a0a2e?style=for-the-badge&logo=githubpages&logoColor=d8a0f8&labelColor=2d1060" alt="Portfolio"/></a>
 </p>
 
@@ -71,18 +71,6 @@ Middleware between autonomous AI buyer agents and merchants: machine-readable ca
 </td>
 <td width="50%" valign="top">
 
-### [PIVOT](https://github.com/Subhra-Nandi/PIVOT)
-<sub>Hack2Skill · Industrial Commerce · Team DevCore</sub>
-
-Turns messy supplier PDFs and listings into commerce-ready product data. Every field is **cited, grounded and conflict-checked**, with a 4-provider LLM fallback chain and **228 passing tests**.
-
-`FastAPI` `React + Vite` `OpenRouter` `Railway` · [**Live demo**](https://pivot-seven-eta.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [LLM-Shield](https://github.com/Subhra-Nandi/llm-shield)
 <sub>LLM infrastructure</sub>
 
@@ -91,6 +79,8 @@ A drop-in, OpenAI-compatible proxy with a semantic cache, PII redaction, two-sta
 `FastAPI` `Redis` `Presidio` `Postgres` `Docker` · [**Live demo**](https://llm-shield-five.vercel.app)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [NGO Resource Allocation](https://github.com/Subhra-Nandi/ngo-resource-allocation-system)
@@ -99,40 +89,6 @@ A drop-in, OpenAI-compatible proxy with a semantic cache, PII redaction, two-sta
 Connects people in crisis to the nearest NGO with stock available. Takes text, voice or photo requests through AI validation gates, uses **PostGIS** for nearest-depot search, and **row-level locking** to prevent double dispatch.
 
 `FastAPI` `Next.js 14` `PostGIS` `GPT-4o`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [AIRA](https://github.com/Subhra-Nandi/aira-platform)
-<sub>Multi-agent research platform</sub>
-
-Research, Analysis and Coding agents work from a single prompt. They search the live web and return startup ideas, market insights or working code tailored to a founder profile.
-
-`FastAPI` `Pydantic` `LLM agents` `n8n`
-
-</td>
-<td width="50%" valign="top">
-
-### [Vaani](https://github.com/Subhra-Nandi/vaani)
-<sub>Voice AI</sub>
-
-A Hindi voice assistant for re-engaging students. Whisper STT → state-machine dialogue → LLM objection handling → Coqui TTS, with Redis session memory.
-
-`Whisper` `Coqui TTS` `Ollama` `Redis` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Light-Seeking Car](https://github.com/Subhra-Nandi/light-seeking-car)
-<sub>Robotics</sub>
-
-Colour and light detection on a **Jetson** sends commands over serial to an **Arduino** that drives the car.
-
-`Python` `Jetson` `Arduino` `C++`
 
 </td>
 <td width="50%" valign="top">
