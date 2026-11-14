@@ -10,11 +10,15 @@
 
 ## About Me
 
-I'm a third-year B.Tech student in **AI & Robotics** at the University of Engineering and Management, Kolkata (GPA 8.17, graduating 2028). I build software where AI meets systems engineering: LLM infrastructure, retrieval pipelines, agentic workflows and geospatial applications.
+> *I build where AI meets systems engineering: models are only as good as the engineering around them.*
 
-I care most about the engineering around the model. That means concurrency and correctness (atomic Redis operations, row-level locking, async pipelines), performance work backed by real measurements, and deterministic safeguards that keep probabilistic models away from decisions they shouldn't make on their own. Most of my experience comes from open source and hackathons, where I've learned to ship working systems under real constraints.
-
-Away from the keyboard, you'll usually find me on a badminton court.
+- **Studying:** third-year B.Tech in AI & Robotics at the University of Engineering and Management, Kolkata (GPA 8.17, class of 2028)
+- **Building:** LLM infrastructure, retrieval pipelines, agentic workflows and geospatial applications
+- **Engineering focus:** concurrency and correctness, such as atomic Redis operations, row-level locking and async pipelines
+- **Principle:** keep probabilistic models away from decisions they shouldn't make alone, using deterministic safeguards
+- **Performance:** I measure first, then optimise, and report real numbers
+- **Learned by shipping:** most of my experience comes from open source and hackathons, building working systems under real constraints
+- **Off the keyboard:** usually on a badminton court
 
 ## Get in Touch
 
